@@ -2,3 +2,5 @@ Capítulo 1 - Conhecendo o Git
 
 Neste capítulo vamos aprender os comandos básicos para se trabalhar com o Git.
 
+1.0 - Comandos básicos
+1.1 - Configurações
