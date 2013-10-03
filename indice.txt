@@ -1,3 +1,4 @@
 Índice
 
 Cap.1 - Conhecendo o Git
+Cap.2 - Sistema de Branches

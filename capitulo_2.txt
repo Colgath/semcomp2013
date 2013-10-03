@@ -1,0 +1,3 @@
+Capítulo 2 - Sistema de branches
+
+Vamos aprender como usar branches em nosso workflow
